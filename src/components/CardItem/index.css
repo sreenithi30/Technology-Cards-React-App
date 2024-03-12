@@ -1,0 +1,36 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  border-radius: 20px;
+  margin: 10px 10px;
+  padding: 20px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px 10px;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px 10px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px 10px;
+}
+
+.container {
+  display: flex;
+}
+
+.cardImage {
+  display: flex;
+  flex-direction: row-reverse;
+}
